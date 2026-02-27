@@ -1,0 +1,12 @@
+# Terraform generated files
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars
+
+# Keys & secrets
+*.pem
+*.key
+
+# OS
+.DS_Store
